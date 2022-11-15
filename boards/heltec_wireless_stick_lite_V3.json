@@ -30,7 +30,7 @@
     "onboard_tools": [
       "esp-builtin"
     ],
-    "openocd_target": "esp32s3.cfg"
+    "openocd_target": "esp32s3-builtin.cfg"
   },
   "frameworks": [
     "arduino",
